@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ## Pengenalan Linux
 Linux adalah sistem operasi open-source yang populer yang dikembangkan oleh Linus Torvalds pada tahun 1991. Sistem operasi ini terdiri dari kernel Linux, yang merupakan inti dari sistem, dan berbagai aplikasi dan perangkat lunak lainnya yang dibangun di atas kernel.
-<br><br>
+
 Salah satu keunggulan Linux adalah kemampuannya untuk disesuaikan dan dikustomisasi sesuai dengan kebutuhan pengguna. Selain itu, Linux juga dikenal karena keamanannya yang tinggi dan kemampuannya untuk menjalankan tugas-tugas yang berat dengan mudah.
 Linux memiliki banyak varian atau distribusi, seperti Ubuntu, Debian, Fedora, dan Red Hat. Masing-masing distribusi ini memiliki karakteristik dan fitur yang berbeda, sehingga pengguna dapat memilih distribusi yang paling sesuai dengan kebutuhan mereka.
 <br><br>
