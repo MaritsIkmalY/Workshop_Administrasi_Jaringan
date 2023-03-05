@@ -10,42 +10,42 @@ Linux adalah sistem operasi open-source yang populer yang dikembangkan oleh Linu
 
 Salah satu keunggulan Linux adalah kemampuannya untuk disesuaikan dan dikustomisasi sesuai dengan kebutuhan pengguna. Selain itu, Linux juga dikenal karena keamanannya yang tinggi dan kemampuannya untuk menjalankan tugas-tugas yang berat dengan mudah.
 Linux memiliki banyak varian atau distribusi, seperti Ubuntu, Debian, Fedora, dan Red Hat. Masing-masing distribusi ini memiliki karakteristik dan fitur yang berbeda, sehingga pengguna dapat memilih distribusi yang paling sesuai dengan kebutuhan mereka.
-<br><br>
+
 Linux juga mendukung berbagai jenis hardware, termasuk sistem baru maupun lama. Hal ini membuat Linux menjadi pilihan yang populer untuk pengguna yang mencari alternatif yang lebih murah dan dapat disesuaikan untuk sistem operasi yang lebih mahal dan tertutup seperti Windows.
-<br><br>
+
 Secara keseluruhan, Linux adalah sistem operasi yang kuat dan dapat disesuaikan yang menawarkan banyak keunggulan dibandingkan dengan sistem operasi lainnya. Baik Anda pengguna pemula maupun lanjutan, Linux memiliki sesuatu yang dapat ditawarkan.
 ## Evolusi OS
 
 Sistem operasi open-source Linux pertama kali dikembangkan oleh Linus Torvalds pada tahun 1991 dan terdiri dari kernel Linux dan berbagai aplikasi lainnya yang dibangun di atas kernel. Keunggulan Linux adalah kemampuannya untuk disesuaikan dan dikustomisasi sesuai dengan kebutuhan pengguna, serta keamanannya yang tinggi dan kemampuannya untuk menjalankan tugas-tugas yang berat dengan mudah.
-<br><br>
+
 Linux memiliki banyak varian atau distribusi, seperti Ubuntu, Debian, Fedora, dan Red Hat. Masing-masing distribusi ini memiliki karakteristik dan fitur yang berbeda, sehingga pengguna dapat memilih distribusi yang paling sesuai dengan kebutuhan mereka.
-<br><br>
+
 Ubuntu adalah distribusi Linux yang pertama kali dirilis pada tahun 2004 oleh Canonical Ltd. Ubuntu awalnya didasarkan pada distribusi Debian Linux, tetapi seiring waktu telah mengembangkan identitasnya sendiri dan memperkenalkan fitur-fitur baru. Ubuntu bertujuan untuk memberikan pengalaman pengguna yang lebih manusiawi dan terhubung dengan komunitas luas.
-<br><br>
+
 Debian adalah sistem operasi open-source yang populer berbasis pada kernel Linux. Pertama kali dirilis pada tahun 1993, Debian telah menjadi salah satu distribusi Linux yang paling stabil dan aman. Debian dirancang untuk memenuhi kebutuhan berbagai pengguna, dari pengguna rumahan hingga perusahaan besar.
-<br><br>
+
 Secara keseluruhan, evolusi Debian dan Ubuntu menunjukkan perkembangan yang positif untuk sistem operasi open-source berbasis Linux, dan keduanya terus berkembang dengan pembaruan berkala dan peningkatan kinerja serta keamanan.
-<br><br>
+
 ### Ubuntu
 Versi terbaru dari Ubuntu saat ini adalah versi 20.04 LTS (Long-Term Support), yang dirilis pada bulan April 2020. Ubuntu 20.04 LTS menawarkan berbagai fitur baru, termasuk dukungan untuk teknologi terbaru dan pembaruan keamanan yang lebih baik.
 
 ### Debian
 Debian adalah sistem operasi open-source yang populer berbasis pada kernel Linux. Pertama kali dirilis pada tahun 1993, Debian telah menjadi salah satu distribusi Linux yang paling stabil dan aman. Debian dirancang untuk memenuhi kebutuhan berbagai pengguna, dari pengguna rumahan hingga perusahaan besar.
-<br><br>
+
 Salah satu fitur utama dari Debian adalah manajemen paket yang canggih, yang memungkinkan pengguna untuk dengan mudah menginstal, menghapus, dan memperbarui perangkat lunak pada sistem mereka. Debian juga dikenal karena stabilitasnya yang tinggi dan dukungan jangka panjang untuk setiap versi.
-<br><br>
+
 Ubuntu sendiri didasarkan pada distribusi Debian Linux. Oleh karena itu, Ubuntu memiliki banyak kesamaan dengan Debian dalam hal manajemen paket dan stabilitas. Namun, Ubuntu menawarkan pendekatan yang lebih ramah pengguna dan lebih banyak fitur bawaan, sehingga lebih cocok untuk pengguna pemula.
-<br><br>
+
 Secara keseluruhan, evolusi Debian dan Ubuntu menunjukkan perkembangan yang positif untuk sistem operasi open-source berbasis Linux, dan keduanya terus berkembang dengan pembaruan berkala dan peningkatan kinerja serta keamanan.
-<br><br>
+
 The newest version of Debian is Debian 11 "Bullseye", which was released on August 14, 2021.
 
 ## SU | SUDO | SUDO SU
 ### Perbedaan su, sudo, dan sudo su
 SU (super user) adalah perintah untuk masuk ke dalam akun root yang memberikan hak akses penuh ke sistem operasi. Namun, penggunaan SU harus hati-hati karena kesalahan dapat menyebabkan kerusakan pada sistem operasi.
-<br><br>
+
 SUDO adalah singkatan dari "superuser do". Perintah ini memungkinkan pengguna biasa untuk menjalankan perintah sebagai superuser atau root dengan memasukkan kata sandi. Dengan menggunakan SUDO, pengguna dapat menjalankan perintah yang memerlukan hak akses penuh tanpa harus keluar dari akun pengguna biasa.
-<br><br>
+
 SUDO SU sebenarnya tidak ada. Namun, pengguna dapat menggunakan perintah `sudo su` untuk masuk ke dalam akun root dengan hak akses penuh. Hal ini dapat berguna dalam situasi di mana pengguna ingin menjalankan beberapa perintah sebagai root tanpa harus keluar dari akun pengguna biasa dan masuk ke dalam akun root dengan perintah `su`.
 
 Secara keseluruhan, SU, SUDO, dan SUDO SU adalah perintah yang berguna dalam mengelola dan memodifikasi sistem operasi Linux. Namun, pengguna harus menggunakannya dengan hati-hati dan hanya ketika diperlukan.
