@@ -2,9 +2,10 @@
 
 # Introduction to Ubuntu 
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ## Pengenalan Linux
 Linux adalah sistem operasi open-source yang populer yang dikembangkan oleh Linus Torvalds pada tahun 1991. Sistem operasi ini terdiri dari kernel Linux, yang merupakan inti dari sistem, dan berbagai aplikasi dan perangkat lunak lainnya yang dibangun di atas kernel.
 
