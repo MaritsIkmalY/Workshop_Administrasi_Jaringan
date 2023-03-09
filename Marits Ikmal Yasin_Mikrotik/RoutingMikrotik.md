@@ -25,11 +25,15 @@ Tata cara menginstall winbox
 
 ### Winbox
 Tampilan awal pada winbox
+
 ![](source/tampilan_awal_winbox.jpeg)
+
 Setelah itu klik **connect**
 
 Selanjutnya kita pilih fitur untuk melakukan routing kepada router yang lain
+
 ![](source/routing_mikrotik.jpeg)
+
 Pada Dst address masukkan network address dari router lain. Untuk Gateway masukkan gateway dari network tersebut. Setelah itu masukkan seluruh network yang ada.
 
 Kelompok 1
