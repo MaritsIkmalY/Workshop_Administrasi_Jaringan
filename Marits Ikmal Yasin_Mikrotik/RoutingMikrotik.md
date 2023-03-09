@@ -63,30 +63,39 @@ Kelompok 10
 Hasil routing dengan melakukan ping ke setiap jaringan yang ada 
 
 Kelompok 1 :
+
 ![](source/ping_pc_kelompok_1.jpeg)
 
 Kelompok 2 :
+
 ![](source/ping_pc_kelompok_2.jpeg)
 
 Kelompok 3 :
+
 ![](source/ping_pc_kelompok_3.jpeg)
 
 Kelompok 4 :
+
 ![](source/ping_pc_sebelah.jpeg)
 
 Kelompok 5 :
+
 ![](source/ping_pc_kelompok_5.jpeg)
 
 Kelompok 6 :
+
 ![](source/ping_pc_kelompok_6.jpeg)
 
 Kelompok 7 :
+
 ![](source/ping_pc_kelompok_7.jpeg)
 
 Kelompok 10 :
+
 ![](source/ping_pc_kelompok_10.jpeg)
 
 Tabel Routing :
+
 ![](source/tabel_routing.jpeg)
 
 ## VirtualBox
