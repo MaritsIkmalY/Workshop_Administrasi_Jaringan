@@ -37,32 +37,32 @@ Selanjutnya kita pilih fitur untuk melakukan routing kepada router yang lain
 Pada Dst address masukkan network address dari router lain. Untuk Gateway masukkan gateway dari network tersebut. Setelah itu masukkan seluruh network yang ada.
 
 Kelompok 1
-- Network Address : 
-- Gateway : 
+- Network Address : 10.252.108.11
+- Gateway : 192.168.1.1
 
 Kelompok 2
-- Network Address : 
-- Gateway : 
+- Network Address : 10.252.108.12
+- Gateway : 192.168.2.1
 
 Kelompok 3
-- Network Address : 
-- Gateway : 
+- Network Address : 10.252.108.168
+- Gateway : 192.168.3.1
 
 Kelompok 5
-- Network Address : 
-- Gateway : 
+- Network Address : 10.252.108.15
+- Gateway : 192.168.5.1
 
 Kelompok 6
-- Network Address : 
-- Gateway : 
+- Network Address : 10.252.108.16
+- Gateway : 192.168.6.1
 
 Kelompok 7
-- Network Address : 
-- Gateway : 
+- Network Address : 10.252.108.17
+- Gateway : 192.168.7.1
 
 Kelompok 10
-- Network Address : 
-- Gateway :
+- Network Address : 10.252.108.20
+- Gateway : 192.168.10.1
 
 Hasil routing dengan melakukan ping ke setiap jaringan yang ada 
 
