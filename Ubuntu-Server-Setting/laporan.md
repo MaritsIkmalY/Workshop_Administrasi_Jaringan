@@ -47,7 +47,7 @@ Domain Name Service (DNS) adalah layanan Internet yang memetakan alamat IP dan n
    sudo nano /etc/bind/db.kampus-05.takehome.com
    ```
    Gambar : <br>
-   ![](assets/db-kampus.JPG)
+   ![](assets/db-kampus-2.JPG)
 7. Restart kembali bind9 dengan perintah :
    ```
    sudo systemctl restart bind9.service
@@ -90,4 +90,9 @@ Domain Name Service (DNS) adalah layanan Internet yang memetakan alamat IP dan n
     - ping terhadap sub domain `ns.kampus-05.takehome.com` <br>
       Gambar : <br>
       ![](assets/ping4.JPG) 
-    
+    - ping terhadap subdomain 'server1.kampus-05.takehome.com'
+      Gambar : <br>
+      ![](assets/pingServer1.JPG) 
+    - ping terhadap subdomain 'server2.kampus-05.takehome.com'
+      Gambar : <br>
+      ![](assets/pingServer2.JPG) 
